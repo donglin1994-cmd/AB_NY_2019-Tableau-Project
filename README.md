@@ -18,5 +18,5 @@ BI Tool: Tableau Public
 
 Link to database: https://www.kaggle.com/dgomonov/new-york-city-airbnb-open-data
 
-Link to tableau:https://public.tableau.com/shared/QFWQZZYKS?:display_count=n&:origin=viz_share_link
+Link to tableau: https://public.tableau.com/shared/QFWQZZYKS?:display_count=n&:origin=viz_share_link
 
